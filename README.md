@@ -10,19 +10,7 @@
 7. [Referencias Bibliográficas](#referencias-bibliográficas)
 
 ## 1. Introducción a la Minería de Datos
-- Definición e importancia de la minería de datos.
-- Datos, información, conocimiento.
-- Relación entre minería de datos y aprendizaje de máquina.
-- Propósitos de la minería de datos.
-- Áreas relacionadas con la minería de datos.
-- Tipos de aprendizaje: supervisado, no supervisado, auto supervisado, refuerzo.
-- Sets de entrenamiento, validación y prueba.
-- Sub, sobre, y ajuste correcto.
-- Plataformas: weka, Python, R, PyCaret, RapidMinder.
-- Introducción y repaso a Python.
-- Tipos de variables: binario, numérico, ordinal, categórico.
-- Métricas de desempeño.
-- Manejo de bases de datos desbalanceadas.
+- La Transformación de la Era de los Datos a la Era de la Información
 
 ## 2. Proceso de Minería
 - Proceso de minería de datos (KDD). CRISP-DM.
