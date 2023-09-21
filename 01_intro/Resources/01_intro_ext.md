@@ -27,6 +27,18 @@ El **propósito del preprocesamiento es transformar los datos de entrada brutos 
 
 "*Close the Loop*" es la frase que se utiliza a menudo para referirse al proceso de integración de los resultados de la minería de datos en sistemas de soporte de decisiones. Un ejemplo de postprocesamiento es la visualización, que permite a los analistas explorar los datos y los resultados de la minería de datos desde una variedad de puntos de vista. También se pueden aplicar medidas estadísticas o métodos de prueba de hipótesis durante el postprocesamiento para eliminar resultados de minería de datos espurios.[^1]
 
+## Tareas de Minería de Datos
+
+Las tareas de minería de datos generalmente se dividen en dos categorías principales:
+
+- **Tareas Predictivas**. El objetivo de estas tareas es predecir el valor de un atributo particular basado en los valores de otros atributos. El atributo a predecir se conoce comúnmente como la variable objetivo o dependiente, mientras que los atributos utilizados para hacer la predicción se conocen como las variables explicativas o independientes.
+
+- **Tareas Descriptivas**. Aquí, el objetivo es derivar patrones (correlaciones, tendencias, clusters, trayectorias y anomalías) que resuman las relaciones subyacentes en los datos. Las tareas de minería de datos descriptivas suelen ser de naturaleza exploratoria y con frecuencia requieren técnicas de postprocesamiento para validar y explicar los resultados.[^1]
+
+### Modelado predictivo
+
+El modelado predictivo se refiere a la **tarea de construir un modelo para la variable objetivo en función de las variables explicativas**. Hay dos tipos de tareas de modelado predictivo: **clasificación**, que se utiliza para variables objetivo discretas, y **regresión**, que se utiliza para variables objetivo continuas. Por ejemplo, predecir si un usuario de la Web realizará una compra en una librería en línea es una tarea de clasificación porque la variable objetivo tiene valores binarios. Por otro lado, pronosticar el precio futuro de una acción es una tarea de regresión porque el precio es un atributo de valor continuo. El objetivo de ambas tareas es aprender un modelo que minimice el error entre los valores predichos y verdaderos de la variable objetivo. El modelado predictivo se puede usar para identificar a los clientes que responderán a una campaña de marketing, predecir perturbaciones en el ecosistema terrestre o determinar si un paciente tiene una enfermedad particular basado en los resultados de pruebas médicas.[^1] 
+
 ...
 
 [^1]: Tan, Steinbach, Kumar. “Introduction to Data Mining”. 2005. Pearson Education, Inc.
