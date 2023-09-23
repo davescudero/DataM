@@ -10,7 +10,7 @@
 7. [Referencias Bibliográficas](#referencias-bibliográficas)
 
 ## 1. Introducción a la Minería de Datos
-- La Transformación de la Era de los Datos a la Era de la Información
+- [La Transformación de la Era de los Datos a la Era de la Información](https://github.com/davescudero/DataM/blob/main/01_intro/01_intro.ipynb)
 
 ## 2. Proceso de Minería
 - Proceso de minería de datos (KDD). CRISP-DM.
