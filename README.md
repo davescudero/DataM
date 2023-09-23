@@ -30,26 +30,6 @@
 - Teoría de la información.
 - Índice de Gini y ganancia de información.
 
-## 4. Proyecciones
-- Modelos lineales y no lineales.
-- Kernels.
-
-## 5. Reconocimiento de Patrones
-- Agrupamiento.
-- Reducción de dimensionalidad.
-- Reglas de asociación.
-- Análisis de grafos.
-
-## 6. Redes Neuronales en Minería de Datos
-- Introducción: perceptrón y MLP’s.
-- Backpropagation.
-- No linearidades.
-- Funciones de pérdida.
-- Sobre ajuste y regularizadores.
-- Auto codificadores y aprendizaje auto supervisado.
-- Imágenes y CNN’s.
-- Series de tiempo y LSTM’s.
-
 ## Referencias Bibliográficas
 - Han, Kamber, Pei. "Data Mining. Concepts and Techniques". 2012. Elsevier.
 - Shmueli, Bruce, Gedeck, Patel. "Data Mining for Business Analytics. Concepts, Techniques, and Applications in Python". 2019. Wiley.
