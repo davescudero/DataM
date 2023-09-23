@@ -32,9 +32,6 @@
 
 ## Referencias Bibliográficas
 - Han, Kamber, Pei. "Data Mining. Concepts and Techniques". 2012. Elsevier.
-- Shmueli, Bruce, Gedeck, Patel. "Data Mining for Business Analytics. Concepts, Techniques, and Applications in Python". 2019. Wiley.
 - Tan, Steinbach, Kumar. “Introduction to Data Mining”. 2005. Pearson Education, Inc.
-- Leskovec, Rajaraman, Ullman. "Mining of Massive Datasets". 2019. Cambridge University Press. [Link](http://www.mmds.org).
-- Géron. “Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems”. 2019. O’Reilly Media, Inc.
 ----
 Hecho con con :heart: y :snake:
